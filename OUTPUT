@@ -1,0 +1,15 @@
+
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phoneNumber": "1234567890",
+        "address": "123 Elm Street",
+        "dateOfBirth": "1985-05-15"
+   
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phoneNumber": "0987654321",
+        "address": "456 Maple Avenue",
+        "dateOfBirth": "1990-08-25"
+   
