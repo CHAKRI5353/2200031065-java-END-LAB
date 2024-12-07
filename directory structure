@@ -1,0 +1,10 @@
+src/main/java/com/example/customerapp
+├── CustomerAppApplication.java   // Main class
+├── entity/
+│   └── Customer.java             // Entity class
+├── repository/
+│   └── CustomerRepository.java   // JPA repository
+├── service/
+│   └── CustomerService.java      // Service class
+├── controller/
+│   └── CustomerController.java   // REST controller
